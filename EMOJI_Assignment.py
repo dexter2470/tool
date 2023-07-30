@@ -1,6 +1,7 @@
-message = input("> ")
-words = message.split( " ")
-output=""
+if __name__ == "__main__":
+         message = input("> ")
+         words = message.split( " ")
+         output=""
 
 emojis= { "disappointed":'🤦‍♀️',
          "clown":'🤡',
